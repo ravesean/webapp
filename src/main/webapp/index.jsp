@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World first commit!</h2>
+<h2>Hello universe!</h2>
 </body>
 </html>
